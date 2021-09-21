@@ -1,0 +1,1 @@
+[task1:](https://inikonzs.github.io/repoForStream/task1deploy/index.html)
