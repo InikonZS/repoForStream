@@ -4,6 +4,9 @@
 
 Create a counter application with 2 buttons - increment, decrement and one viewport (div or span) for display value;
 
+![design](https://raw.githubusercontent.com/InikonZS/repoForStream/master/unknown%20(1).png)
+
+
 ### Requirements
 
 1. Forbidden: queryselectors, any other way to find elements is forbidden too. No event.target, no data-set.
